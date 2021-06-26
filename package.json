@@ -11,5 +11,8 @@
     "url": "mygithub:bisque33/github-container-integration"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "escape-html": "^1.0.3"
+  }
 }
